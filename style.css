@@ -11,7 +11,7 @@ span{
 .button-style{
     text-decoration: none;
     color: black;
-    background-image: linear-gradient( rgb(248, 11, 248), rgb(250, 185, 225));
+    background-image: linear-gradient( rgb(255, 191, 107), rgb(250, 166, 110));
     padding: 5px;
     border-radius: 5px;
 }
@@ -79,4 +79,24 @@ span{
 }
 .goal{
     background-color: rgb(243, 243, 209);
+}
+.third-developer{
+    display: flex;
+    width: 100%;
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat:no-repeat;
+    background-position: left;
+    
+}
+.third-developer img{
+    width: 500px;
+    height:370px;
+    margin-left: 60px;
+}
+.third-developer h2{
+   font-size: 40px;
+   line-height: 50px;
+}
+.developer{
+    margin: 50px;
 }
