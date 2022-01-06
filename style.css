@@ -49,6 +49,9 @@ span{
     margin-left: 7px;
 
 }
+.main-mission p{
+    text-align: justify;
+}
 .vission img{
     width: 90px;
     height: 100px;
@@ -99,4 +102,47 @@ span{
 }
 .developer{
     margin: 50px;
+}
+.global-community{
+    display: flex;
+    width: 100%;
+    background-image: url(images/shapes/shape-1.png);
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    background-size:200px 200px;
+}
+.global-four img{
+    height: 350px;
+    width: 500px;
+    margin-top: 50px;
+}
+.global-four h1{
+    font-size: 40px;
+}
+.global-four{
+    margin: 30px;
+}
+.idol{
+    display: flex;
+    width: 100%;
+}
+.idol-five img{
+    width: 400px;
+    margin-top: 40px;
+
+}
+.idol-five{
+    margin: 40px;
+}
+.idol-five h1{
+    font-size: 40px;
+}
+.last-final{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.last-final i{
+    font-size: 40px;
+    color: rgb(253, 237, 206);
 }
